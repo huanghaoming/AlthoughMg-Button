@@ -42,10 +42,11 @@ public class MainActivity extends AppCompatActivity {
         cl = findViewById(R.id.cl);
 
         List<LabelInfo> list = new ArrayList<>();
-        LabelInfo labelInfo1 = new LabelInfo("1", "初来乍到，不懂就问");
-        LabelInfo labelInfo2 = new LabelInfo("2", "呼叫现场怪，帮我看看");
-        LabelInfo labelInfo3 = new LabelInfo("3", "寻找附近有没有这种地方");
-        LabelInfo labelInfo4 = new LabelInfo("4", "自问自答，我是地头蛇");
+
+        LabelInfo labelInfo1 = new LabelInfo("1", "nimabi");
+        LabelInfo labelInfo2 = new LabelInfo("2", "woaini");
+        LabelInfo labelInfo3 = new LabelInfo("3", "caonima");
+        LabelInfo labelInfo4 = new LabelInfo("4", "xiaohaha");
 
         list.add(labelInfo1);
         list.add(labelInfo2);
