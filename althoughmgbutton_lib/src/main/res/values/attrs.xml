@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ali_title" format="string" />
+    <attr name="ali_title_color" format="color" />
+    <attr name="ali_title_color_press" format="color" />
+    <attr name="ali_icon" format="string" />
+    <attr name="ali_icon_color" format="color" />
+    <attr name="ali_icon_color_press" format="color" />
+    <attr name="ali_title_text_size" format="dimension" />
+    <attr name="ali_icon_size" format="dimension" />
+
+    <declare-styleable name="ImageTextLongButton">
+        <attr name="ali_title" />
+        <attr name="ali_title_color" />
+        <attr name="ali_title_color_press" />
+        <attr name="ali_icon" />
+        <attr name="ali_icon_color" />
+        <attr name="ali_icon_color_press" />
+        <attr name="ali_title_text_size" />
+        <attr name="ali_icon_size" />
+
+        <attr name="ali_arrow_right" />
+
+    </declare-styleable>
+    <declare-styleable name="ImageTextButton">
+        <attr name="ali_title" />
+        <attr name="ali_title_color" />
+        <attr name="ali_title_color_press" />
+        <attr name="ali_icon" />
+        <attr name="ali_icon_color" />
+        <attr name="ali_icon_color_press" />
+        <attr name="ali_title_text_size" />
+        <attr name="ali_icon_size" />
+    </declare-styleable>
+    <declare-styleable name="AlibabaIconButton">
+        <attr name="ali_title" />
+        <attr name="ali_title_color" />
+        <attr name="ali_title_color_press" />
+        <attr name="ali_icon" />
+        <attr name="ali_icon_color" />
+        <attr name="ali_icon_color_press" />
+        <attr name="ali_title_text_size" />
+        <attr name="ali_icon_size" />
+    </declare-styleable>
+
+
+    <declare-styleable name="TransparentButton">
+        <attr name="trans_icon" />
+        <attr name="trans_icon_color" />
+        <attr name="trans_icon_color_press" />
+        <attr name="trans_icon_size" />
+    </declare-styleable>
+
+
+    <declare-styleable name="CommonLabel">
+        <attr name="cl_title_style" format="reference" />
+    </declare-styleable>
+
+
+</resources>

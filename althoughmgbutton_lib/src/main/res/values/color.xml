@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="red">#ffff0000</color>
+    <color name="yellow">#FFC125</color>
+
+
+    <color name="label_gray">#eff3f4</color>
+    <color name="label_text_gray">#7f8082</color>
+    <color name="label_blue">#4da5ed</color>
+
+
+</resources>

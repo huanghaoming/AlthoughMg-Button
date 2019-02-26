@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+
+    <com.zhenmei.althoughmgbutton.lib.ImageTextLongButton
+        android:id="@+id/itlong_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:ali_arrow_right="&#xe60d;"
+        app:ali_icon="&#xe68f;"
+        app:ali_title="你的位置"></com.zhenmei.althoughmgbutton.lib.ImageTextLongButton>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
